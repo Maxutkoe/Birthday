@@ -1,6 +1,6 @@
 <?php
 ########## Proxy config ######
-$proxyAddr = "";
+$proxyAddr = "https://github.com/Maxutkoe/hospital.git";
 $proxyPort = "";
 $proxyUserName = "";
 $proxyPassword = "";
