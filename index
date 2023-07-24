@@ -2,6 +2,7 @@
 <head>
 </head>
 <body>
-<script src = 'bitrixsetup.php'
+<script src = 'bitrixsetup.php'>
+</script>
 </body>
 </html>
